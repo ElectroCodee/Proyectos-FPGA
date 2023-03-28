@@ -2,8 +2,6 @@
 ¡Hola! ¿Qué tal?
 
 Para el video de hoy, les traigo 11 proyectos con FPGA.
-
-Proyectos:
 1. Decoder display
 2. Contador ascendente
 3. Contador ascendente con salida a display
